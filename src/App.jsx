@@ -1,5 +1,5 @@
 function App() {
-  return <h1>Project Start</h1>;
+  return <h1>App Start</h1>;
 }
 
 export default App;
